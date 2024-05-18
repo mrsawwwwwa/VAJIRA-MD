@@ -6,8 +6,8 @@ function convertToBool(text, fault = 'true') {
 global.email = 'vajirarathnayaka891@gmail.com'
 global.github = 'https://github.com/VajirTech/VAJIRA-MD'
 global.location = 'Srilanka Colombo'
-global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = '𝙑𝘼𝙅𝙄𝙍𝘼 𝙈𝘿';
+global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢 @🅼🆁.🅂🄰🅆🅆🄰/࿐';
+global.author = '@🅼🆁.🅂🄰🅆🅆🄰/࿐';
 global.mess = {
     banned: '`You are *Banned* fron using commands!`',
     bangc: '`This Group is *Banned* from using Commands!`',
@@ -22,7 +22,7 @@ global.mess = {
     endLimit: '`Your daily limit has expired, the limit will be reset every 12 hours`',
 }
 
-global.owner = [process.env.OWNER_NUMBER] || ['94711453097'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.owner = [process.env.OWNER_NUMBER] || ['94770814687'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
 
 module.exports = {    
 SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=LcF0TTCJ#uWgcM57ugmyj1HW5de8YgV2K1oeen0-3v71hQx6KZ4Q',
@@ -39,9 +39,9 @@ ALWAYS_ONLINE:  process.env.ALWAYS_ONLINE  || false  ,
 WORK_TYPE: process.env.WORK_TYPE || 'private'  ,
 ANTI_LINK: process.env.ANTI_LINK || false  ,
 ANTI_BOT: process.env.ANTI_BOT || false  ,
-OWNER_NUMBER: process.env.OWNER_NUMBER || '94719199757'  ,    
-ALIVE: process.env.ALIVE || `default`,
-OWNER_NAME: process.env.OWNER_NAME || 'Vajira' ,     
+OWNER_NUMBER: process.env.OWNER_NUMBER || '94770814687'  ,    
+ALIVE: process.env.ALIVE || `කෙලොගන්නෙපා මට කියාලා`,
+OWNER_NAME: process.env.OWNER_NAME || '@🅼🆁.🅂🄰🅆🅆🄰/࿐' ,     
 AUTO_STATUS_READ:  process.env.AUTO_STATUS_READ  || false  ,    
 AUTO_VOICE:  process.env.AUTO_VOICE  || false  ,
 AUTO_STICKER: process.env.AUTO_STICKER || false  ,
